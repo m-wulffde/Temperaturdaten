@@ -5,4 +5,6 @@ Das Endziel des Projektes ist eine autarke Messstation mit Hilfe des ESP8266-01 
 
 ![Temperatur](http://www.m-wulff.de/esp/projekt-temp/rund.jpg) ![Graph](http://www.m-wulff.de/esp/projekt-temp/temp-graph.jpg)
 
+Sprache: C++ (Arduino 1.8.12), PHP auf der eingenen Webseite
+
 Weitere Informationen: http://www.m-wulff.de/esp/projekt-temp/index.php
