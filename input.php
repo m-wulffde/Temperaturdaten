@@ -1,4 +1,4 @@
-<?php3
+<?php
   $Temperatur = $_GET["t"];
   $datei = fopen("daten.txt","w");
   echo fwrite($datei,$Temperatur,100);
