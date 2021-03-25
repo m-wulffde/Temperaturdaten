@@ -7,4 +7,4 @@ Das Endziel des Projektes ist eine autarke Messstation mit Hilfe des ESP8266-01 
 
 Sprache: C++ (Arduino 1.8.12), PHP auf der eingenen Webseite
 
-*Weitere Informationen mit ausführlicher Anleitung zur Hardware und schritweiser Aufbau:* http://www.m-wulff.de/esp/projekt-temp/index.php
+*Weitere Informationen mit ausführlicher Anleitung zur Hardware und schrittweiser Aufbau:* http://www.m-wulff.de/esp/projekt-temp/index.php
